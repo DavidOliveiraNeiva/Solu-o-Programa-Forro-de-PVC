@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forro de PVC", "Forro de PVC\Forro de PVC.csproj", "{4891ADD2-BC41-4479-9735-C6D7B1540F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4891ADD2-BC41-4479-9735-C6D7B1540F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4891ADD2-BC41-4479-9735-C6D7B1540F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4891ADD2-BC41-4479-9735-C6D7B1540F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4891ADD2-BC41-4479-9735-C6D7B1540F59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC56774-23DB-4C9F-B880-B52EB705CAD3}
+	EndGlobalSection
+EndGlobal
